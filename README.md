@@ -18,7 +18,7 @@
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Cod3Uchiha/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Cod3Uchiha/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Cod3Uchiha?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
