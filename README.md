@@ -16,7 +16,7 @@
 
 [`ℹ️Contact Owner`](https://wa.me/263785028126)
 
-[!FORK Cod3Uchiha](https://img.shields.io/badge/FORK%20Cod3Uchiha-black?style=for-the-badge&logo=stackshare) • https://github.com/Cod3Uchiha/SESSION-GENERATOR/fork
+[!FORK Cod3Uchiha]•https://github.com/Cod3Uchiha/SESSION-GENERATOR/fork
 
 Now Deploy
     <br>
