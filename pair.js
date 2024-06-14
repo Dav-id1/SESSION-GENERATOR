@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected*
-*_Made With 🤍_*
+*_Made With love by Cod3Uchiha🤍_*
 ______________________________________
 ╔════◇
 ║ FOR ALL COD3UCHIHA BOTS
@@ -76,8 +76,8 @@ ______________________________________
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *COD3UCHIHA:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║⬡ *TKM inc:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
+║⬡ *COD3UCHIHA:* _https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g_
+║⬡ *TKM inc:* _https://whatsapp.com/channel/0029VadFn9M545v25zjEWI3I_
 ║
 ║⬡ *©Copyright* _Takudzwa-Mlambo|Cod3Uchiha
 ╚══════════════════════════════════╝
