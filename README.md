@@ -16,9 +16,7 @@
 
 [`ℹ️Contact Owner`](https://wa.me/263785028126)
 
-FORK THE REPOSITORY (Repo) 
-    <br>
-<a href="https://github.com/Cod3Uchiha/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Cod3Uchiha?color=black&style=for-the-badge&logo=stackshare"></a>
+[!FORK Cod3Uchiha](https://img.shields.io/badge/FORK%20Cod3Uchiha-black?style=for-the-badge&logo=stackshare) • https://github.com/Cod3Uchiha/SESSION-GENERATOR/fork
 
 Now Deploy
     <br>
