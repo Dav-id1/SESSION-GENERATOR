@@ -59,22 +59,30 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Wasi Tech_*
-*_Made With 🤍_*
+*_QR Code Connected*
+*_Made With by Cod3Uchiha🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN WASI MD』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ FOR ALL COD3UCHIHA BOTS
+║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1
-║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/FF6YuOZTAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j_
-║❒ *Plugins:* _https://github.com/Itxxwasi 
-╚════════════════════════╝
+║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
+║⬡ *Ytube:* _youtube.com/@Cod3Uchiha_
+║⬡ *Owner:* _https://wa.me/263785028126_
+║
+║⬡MY bot Repos⬡
+║
+║⬡ *TKM bot:* _https://github.com/Cod3Uchiha/TKM-bot_
+║⬡ *Manjiro-Sano-md:* _https://github.com/Cod3Uchiha/Manjiro-Sano-md_
+║
+║⬡Support channels⬡
+║
+║⬡ *COD3UCHIHA:* _https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g_
+║⬡ *TKM inc:* _https://whatsapp.com/channel/0029VadFn9M545v25zjEWI3I_
+║
+║⬡ *©Copyright* _Takudzwa-Mlambo|Cod3Uchiha
+╚══════════════════════════════════╝
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
