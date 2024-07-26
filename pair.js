@@ -58,28 +58,28 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected*
-*_Made With love by Cod3Uchiha🤍_*
+*_Made With love Badboi and Lord No Name🤍_*
 ______________________________________
 ╔════◇
-║ FOR ALL COD3UCHIHA BOTS
+║ FOR ALL Badboi and Lord No Name🤍 BOTS
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *Ytube:* _youtube.com/@Cod3Uchiha_
-║⬡ *Owner:* _https://wa.me/263785028126_
+║⬡ *Owner:* _https://wa.me/2348133286181_
+║⬡ *Owner:* _https://wa.me/2348140825959_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *TKM bot:* _https://github.com/Cod3Uchiha/TKM-bot_
-║⬡ *Manjiro-Sano-md:* _https://github.com/Cod3Uchiha/Manjiro-Sano-md_
+║⬡ *Badboi and Lord No Name🤍:* _https://github.com/Anime-King01/Devil_Cat-V2.0_
+║⬡ *Badboi and Lord No Name🤍:* _https://github.com/Anime-King01/Devil_Cat-V2.0_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *COD3UCHIHA:* _https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g_
-║⬡ *TKM inc:* _https://whatsapp.com/channel/0029VadFn9M545v25zjEWI3I_
+║⬡ *Badboi and Lord No Name🤍:* _https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x_
+║⬡ *Badboi and Lord No Name🤍:* _https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t_
 ║
-║⬡ *©Copyright* _Takudzwa-Mlambo|Cod3Uchiha
+║⬡ *©Copyright* _Badboi and Lord No Name🤍
 ╚══════════════════════════════════╝
 _____________________________________
 
