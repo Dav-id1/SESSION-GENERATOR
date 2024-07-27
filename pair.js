@@ -57,32 +57,32 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected*
-*_Made With love Badboi and Lord No Name🤍_*
+*_Pair Code Connected🤖🤖*
+*_Made With love 🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍_*
 ______________________________________
 ╔════◇
-║ FOR ALL Badboi and Lord No Name🤍 BOTS
+║ FOR ALL 🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍 BOTS
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *Owner:* _https://wa.me/2348133286181_
 ║⬡ *Owner:* _https://wa.me/2348140825959_
+║⬡ *Owner:* _https://wa.me/254702626305_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *Badboi and Lord No Name🤍:* _https://github.com/Anime-King01/Devil_Cat-V2.0_
-║⬡ *Badboi and Lord No Name🤍:* _https://github.com/Anime-King01/Devil_Cat-V2.0_
+║⬡ *🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍🤍:*_https://github.com/Kingpin321/KINGS-MD_
+║⬡ *🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍🤍:*_https://github.com/Kingpin321/KINGS-MD_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *Badboi and Lord No Name🤍:* _https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x_
-║⬡ *Badboi and Lord No Name🤍:* _https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t_
+║⬡ *🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍:* _https://whatsapp.com/channel/0029VajuvtrLY6dAmWJKD544_
+║⬡ *🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍:* _https://whatsapp.com/channel/0029VajuvtrLY6dAmWJKD544_
 ║
-║⬡ *©Copyright* _Badboi and Lord No Name🤍
+║⬡ *©Copyright* _🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍
 ╚══════════════════════════════════╝
 _____________________________________
-
+	
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
