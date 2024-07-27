@@ -60,28 +60,28 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_QR Code Connected*
-*_Made With by Badboi and lord no name🤍_*
+*_Made With by 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍MD🤍_*
 ______________________________________
 ╔════◇
-║ FOR ALL Badboi and lord no name🤍 BOTS
+║ FOR ALL 🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍 BOTS
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
 ║⬡ *Owner:* _https://wa.me/2348140825959_
-║⬡ *Owner:* _https://wa.me/2348133286181_
+║⬡ *Owner:* _https://wa.me/254702626305_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *Badboi and lord no name🤍:* _https://github.com/Anime-King01/Devil_Cat-V2.0_
-║⬡ *Badboi and lord no name🤍:* _https://github.com/Anime-King01/Devil_Cat-V2.0_
+║⬡ *🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍🤍:*_https://github.com/Kingpin321/KINGS-MD_
+║⬡ *🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍🤍:*_https://github.com/Kingpin321/KINGS-MD_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *Badboi and lord no name🤍:* _https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t_
-║⬡ *Badboi and lord no name🤍:* _https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x_
+║⬡ *🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍:* _https://whatsapp.com/channel/0029VajuvtrLY6dAmWJKD544_
+║⬡ *🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍:* _https://whatsapp.com/channel/0029VajuvtrLY6dAmWJKD544_
 ║
-║⬡ *©Copyright* _Badboi and lord no name🤍
+║⬡ *©Copyright* _🤖Badboi and 👑𝕶𝖎𝖓𝖌𝖕𝖎𝖓👑🤍
 ╚══════════════════════════════════╝
 _____________________________________
 	
